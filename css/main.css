@@ -20,7 +20,7 @@ body .container {
   padding-right: 15px;
 }
 
-.header__line {
+.header-line {
   position: fixed;
   width: 100%;
   background-color: #ffffff;
@@ -231,7 +231,7 @@ body .container {
   background-color: #188CE8;
 }
 
-.benefits__section {
+.benefits-section {
   padding-top: 94px;
   padding-bottom: 94px;
 }
